@@ -1,0 +1,13 @@
+server:
+  port: 8084
+
+app :
+  botName : money_data_parser_bot
+  botToken : 6474000091:AAH1aTR-HCnp4DFgLqUCwtQMrxa8OpnZHpk
+
+spring:
+  rabbitmq:
+    host: localhost
+    username: userok
+    password: p@ssw0rd
+    port: 5672

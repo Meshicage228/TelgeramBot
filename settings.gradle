@@ -1,0 +1,5 @@
+rootProject.name = 'TelgeramBot'
+include 'node'
+include 'common-rabbitmq'
+include 'dispatcher'
+
